@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 ListView lstView;
     int i=0;
 ArrayList<String> aa=new ArrayList<>();
-  final  String url="http://ssalphax.pe.hu/contact.php";
+  final  String url="http://cont.pe.hu/ConTa.php";
     ArrayList<String> personName=new ArrayList<>();
     private static final int PERMISSIONS_REQUEST_READ_CONTACTS = 100;
 
